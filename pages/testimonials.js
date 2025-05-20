@@ -1,0 +1,1 @@
+export default function Testimonials() { return <div className='p-6 text-xl'>“Superman Painting transformed our space!” – Happy Client</div>; }
