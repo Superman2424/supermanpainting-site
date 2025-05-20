@@ -1,0 +1,1 @@
+export default function Services() { return <div className='p-6 text-xl'>We offer Residential, Commercial, and Industrial painting services nationwide.</div>; }

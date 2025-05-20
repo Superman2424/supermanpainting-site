@@ -1,0 +1,1 @@
+export default function About() { return <div className='p-6 text-xl'>Over 30 years of experience in Residential, Commercial, and Industrial Painting.</div>; }

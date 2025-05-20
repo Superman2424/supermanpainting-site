@@ -1,0 +1,1 @@
+export default function Gallery() { return <div className='p-6 text-xl'>Gallery placeholder. Add your before/after photos here.</div>; }
